@@ -26,7 +26,7 @@ terlupakan. BANDOSA merupakan WEBGIS yang memuat tentang info mengenai tempat wi
 
 <h2>Tangkapan layar komponen penting produk:</h2>
 <ul>
-  <li>Landing page</li><br><img src = "assets/landing1.png" width = "500"><br>
+  <li>Landing page</li><br><img src = "assets/landing1.jpg" width = "500"><br>
   <img src = "assets/landing2.png" width = "500"><br>
   <img src = "assets/landing4.png" width = "500"><br>
    <li>Peta persebaran pariwisata</li><br><img src = "./assets/maps.png" width = "500"><br>
