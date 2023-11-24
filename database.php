@@ -36,7 +36,7 @@ $result = $conn->query($sql);
             margin: 20px;
         }
         body {
-            background-image: url('assets/img/data/images.png'); /* Ganti 'background.jpg' dengan path gambar latar belakang yang diinginkan */
+            background-image: url('assets/css/images/pinusWP.jpg'); /* Ganti 'background.jpg' dengan path gambar latar belakang yang diinginkan */
             background-size: cover;
             color: #000;
         }
