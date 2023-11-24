@@ -63,9 +63,9 @@ $result = $conn->query($sql);
 <body>
 
     <!--Navbar-->
-  <nav class="navbar navbar-expand-lg navbar-dark shadow-sm" style="background-color: #0095ff">
+  <nav class="navbar navbar-expand-lg navbar-dark shadow-sm" style="background-color: #000000">
     <div class="container">
-      <a class="navbar-brand" href="#"><i class="fa-solid fa-mountain-sun mx-2"></i>BANDOSA</a>
+      <a class="navbar-brand" href="index.html"><i class="fa-solid fa-mountain-sun mx-2"></i>BANDOSA</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -73,10 +73,10 @@ $result = $conn->query($sql);
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="index.html">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="peta.html">WebGIS</a>
+            <a class="nav-link" href="peta.html">MAPS</a>
           </li>
           
         </ul>
