@@ -20,7 +20,6 @@ terlupakan. BANDOSA merupakan WEBGIS yang memuat tentang info mengenai tempat wi
 <h2>Sumber data:</h2>
 <ul>
 <li> Data shapefile wilayah administrasi Bantul</li>
-<li>Data statistik Bappeda Bantul tahun 2021</li>
 <li>Titik lokasi wisata dari Google Maps</li>
 </ul>
 
