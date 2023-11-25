@@ -30,7 +30,7 @@ terlupakan. BANDOSA merupakan WEBGIS yang memuat tentang info mengenai tempat wi
   <img src = "assets/landing2.png" width = "500"><br>
   <img src = "assets/landing4.png" width = "500"><br>
    <li>Peta persebaran pariwisata</li><br><img src = "./assets/maps.png" width = "500"><br>
-   <li>Tabel</li><br><img src = "assets/tabel.png" width = "500"><br>
+   <li>Tabel</li><br><img src = "assets/tabel1.png" width = "500"><br>
 <li>Profil</li><br><img src = "./assets/profil.png" width = "500"><br>
 </ul>
 
