@@ -93,7 +93,7 @@ $result = $conn->query($sql);
                     <th>Nama Wisata</th>
                     <th>Latitude</th>
                     <th>Longitude</th>
-                    <th>Jenis</th>
+                    <th>Harga</th>
                 </tr>
             </thead>
             <tbody>
