@@ -14,7 +14,6 @@ terlupakan. BANDOSA merupakan WEBGIS yang memuat tentang info mengenai tempat wi
 <li>Bootstrap: mengatur layout UI pada web</li>
 <li>GeoJson: data spasial yang ditampilkan pada web</li>
 <li>PHPMyAdmin: pembuatan dan pengolahan database</li>
-<li>Xampp: sebagai localhost</li>
 </ul>
 
 <h2>Sumber data:</h2>
