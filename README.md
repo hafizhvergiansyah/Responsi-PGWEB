@@ -14,13 +14,11 @@ terlupakan. BANDOSA merupakan WEBGIS yang memuat tentang info mengenai tempat wi
 <li>Bootstrap: mengatur layout UI pada web</li>
 <li>GeoJson: data spasial yang ditampilkan pada web</li>
 <li>PHPMyAdmin: pembuatan dan pengolahan database</li>
-<li>Xampp: sebagai localhost</li>
 </ul>
 
 <h2>Sumber data:</h2>
 <ul>
-<li> Data shapefile wilayah administrasi Bantul</li>
-<li>Data statistik Bappeda Bantul tahun 2021</li>
+<li> Data shapefile wilayah administrasi Bantul dari InaGeoPortal</li>
 <li>Titik lokasi wisata dari Google Maps</li>
 </ul>
 
