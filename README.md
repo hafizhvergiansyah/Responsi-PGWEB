@@ -33,3 +33,5 @@ terlupakan. BANDOSA merupakan WEBGIS yang memuat tentang info mengenai tempat wi
    <li>Tabel</li><br><img src = "assets/tabel.png" width = "500"><br>
 <li>Profil</li><br><img src = "./assets/profil.png" width = "500"><br>
 </ul>
+
+link demo : "https://hafizhvergiansyah.github.io/Responsi-PGWEB/index.html"
